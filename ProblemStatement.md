@@ -6,7 +6,7 @@ time limit per test : 1 second
 
 memory limit per test : 256 megabytes
 
----
+#
 
 
 
@@ -36,7 +36,7 @@ The first line of input contains two space-separated integers m and c (1 ≤�
 
 ### OUTPUT
 
-Print the maximum number of bananas Okabe can get from the trees he cuts.
+Print the maximum number of brownies you can collect.
 
 ### Examples
 Input
